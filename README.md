@@ -1,20 +1,25 @@
-update 2014/10/14
-
-webmv2 was uploaded:
-
-webmv2 can display oracle/mysql/mongodb statistic
-
-webmv2 was designed by CS architecture (use agent to uoload data to monitor server)
-
-
-
 webm
 ====
 
 mysql web key performance monitor
 
-webm is a tool that display key value graph on website 
-webm was developed by javascript and mysqlmon ( mysql data collection tool)
+webm was update to webm_v2 version
+
+webm is a tool that show significant statistic value for databases (key value like redosize,QPS,TPS and so so)
+
+webm support oracle mysql and mongodb at present
+
+for oracle : agent was wrote by perl and you need install perl-DBI and MYLSQ-DBD for data uploading.
+
+for mysql : agent was wrote by C language and you will upload data to monitor server directly 
+
+for mongodb: agent was wrote by python and stored in local mongodb database. The format of statistic was json.
+
+and All of statistics was uploaded to monitor server (mysql database) ,you can keep them for a long time for future analysis.
+
+
+On web site we use javascripts and PHP to display graph so you need install all of them
+
 
 Environment need:
 
