@@ -9,11 +9,11 @@ webm is a tool that show significant statistic value for databases (key value li
 
 webm support oracle mysql and mongodb at present
 
-1.for oracle : agent was wrote by perl and you need install perl-DBI and MYLSQ-DBD for data uploading.
+1. for oracle : agent was wrote by perl and you need install perl-DBI and MYLSQ-DBD for data uploading.
 
-2.for mysql : agent was wrote by C language and you will upload data to monitor server directly 
+2. for mysql : agent was wrote by C language and you will upload data to monitor server directly 
 
-3.for mongodb: agent was wrote by python and stored in local mongodb database. The format of statistic was json.
+3. for mongodb: agent was wrote by python and stored in local mongodb database. The format of statistic was json.
 
 All of statistics was uploaded to monitor server (mysql database) ,you can keep them for a long time for future analysis.
 
