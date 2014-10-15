@@ -27,9 +27,27 @@ Linux version 5+  php5 Apache server
 
 You can also run this tool on windows platform (install xampp )
 
+
+examples for Graph show :
+
+Oracle:
+
+![oracle](https://cloud.githubusercontent.com/assets/1445708/4640729/d4e324e4-5427-11e4-9ef5-c1aa3e957c13.jpg)
+
+
+MySQL:
+
 ![image](https://cloud.githubusercontent.com/assets/1445708/4434723/aa6eb64a-4722-11e4-83f3-564ef86cbca5.png)
 
 ![image](https://cloud.githubusercontent.com/assets/1445708/4434725/bb597ab2-4722-11e4-889d-758d44fec16e.png)
+
+
+MongoDB:
+
+
+![mongodb](https://cloud.githubusercontent.com/assets/1445708/4640727/c883c1a4-5427-11e4-929c-442c006f2583.jpg)
+
+
 
 
 
