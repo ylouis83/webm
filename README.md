@@ -1,11 +1,11 @@
 webm
 ====
 
-database web key performance monitor
+web monitor for database key performance monitor
 
 webm was update to webm_v2 version
 
-webm is a tool that show significant statistic value for databases (key value like redosize,QPS,TPS and so so)
+webm is a tool that show significant statistic value for databases (key value like redosize,QPS,TPS and so on)
 
 webm support oracle mysql and mongodb at present
 
@@ -18,7 +18,7 @@ webm support oracle mysql and mongodb at present
 All of statistics was uploaded to monitor server (mysql database) ,you can keep them for a long time for future analysis.
 
 
-On web site we use javascripts and PHP to display graph so you need install all of them
+On website we use javascripts and PHP to display graph. so you need install all of them
 
 
 Environment need:
